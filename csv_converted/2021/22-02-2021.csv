@@ -1,0 +1,6 @@
+Q,Negociação,C/V,Tipo mercado,Prazo,Especificação do título,Obs. (*),Quantidade,Preço / Ajuste,Valor Operação / Ajuste,D/C
+-,1-BOVESPA,C,FRACIONARIO,-,AES TIETE EPN N2,-,5,"3,15","15,75",D
+-,1-BOVESPA,C,FRACIONARIO,-,ALUPARPN N2,-,2,"8,09","16,18",D
+-,1-BOVESPA,C,FRACIONARIO,-,ALUPARPN N2,-,5,"8,09","40,45",D
+-,1-BOVESPA,C,FRACIONARIO,-,ITAUSAPN N1,-,10,"9,81","98,10",D
+-,1-BOVESPA,C,FRACIONARIO,-,SANEPARPN N2,-,10,"4,18","41,80",D

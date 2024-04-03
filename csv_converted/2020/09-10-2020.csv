@@ -1,0 +1,5 @@
+Q,Negociação,C/V,Tipo mercado,Prazo,Especificação do título,Obs. (*),Quantidade,Preço / Ajuste,Valor Operação / Ajuste,D/C
+-,1-BOVESPA,C,FRACIONARIO,-,ITAUSAPN N1,-,10,"9,36","93,60",D
+-,1-BOVESPA,C,FRACIONARIO,-,KLABIN S/APN N2,-,15,"4,79","71,85",D
+-,1-BOVESPA,C,VISTA,-,FII MAXI RENMXRF11CI ER,-,11,"10,60","116,60",D
+-,1-BOVESPA,C,VISTA,-,FII XP MALLSXPML11CI,-,1,"107,89","107,89",D

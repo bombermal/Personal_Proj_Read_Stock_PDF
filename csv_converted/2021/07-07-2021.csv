@@ -1,0 +1,6 @@
+Q,Negociação,C/V,Tipo mercado,Prazo,Especificação do título,Obs. (*),Quantidade,Preço / Ajuste,Valor Operação / Ajuste,D/C
+-,1-BOVESPA,C,FRACIONARIO,-,SANEPARPN EJ N2,-,50,"4,00","200,00",D
+-,1-BOVESPA,C,FRACIONARIO,-,SANEPARPN EJ N2,-,8,"4,00","32,00",D
+-,1-BOVESPA,C,VISTA,-,FII MAXI RENMXRF11CI ER,#,9,"10,02","90,18",D
+-,1-BOVESPA,C,VISTA,-,FII XP CREDXPCI11CI ER,-,1,"100,20","100,20",D
+-,1-BOVESPA,C,VISTA,-,FII XP MALLSXPML11CI,#,1,"104,01","104,01",D

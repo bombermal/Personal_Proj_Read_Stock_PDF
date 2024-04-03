@@ -1,0 +1,6 @@
+Q,Negociação,C/V,Tipo mercado,Prazo,Especificação do título,Obs. (*),Quantidade,Preço / Ajuste,Valor Operação / Ajuste,D/C
+-,1-BOVESPA,C,FRACIONARIO,-,ALUPARPN N2,-,7,"8,09","56,63",D
+-,1-BOVESPA,C,FRACIONARIO,-,BRASKEMPNA N1,-,1,"23,73","23,73",D
+-,1-BOVESPA,C,FRACIONARIO,-,FLEURYON NM,-,2,"27,15","54,30",D
+-,1-BOVESPA,C,FRACIONARIO,-,SANEPARPN N2,-,10,"5,01","50,10",D
+-,1-BOVESPA,C,VISTA,-,FII MAXI RENMXRF11CI,-,6,"10,57","63,42",D
