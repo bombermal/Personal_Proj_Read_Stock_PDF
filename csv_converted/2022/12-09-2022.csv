@@ -1,3 +1,3 @@
 Q,Negociação,C/V,Tipo mercado,Prazo,Especificação do título,Obs. (*),Quantidade,Preço / Ajuste,Valor Operação / Ajuste,D/C
--,1-BOVESPA,C,FRACIONARI,O,ITAUSAPN EJ N1,#,1,"9,50","9,50",D
--,1-BOVESPA,C,FRACIONARI,O,MAGAZ LUIZAON NM,-,1,"4,62","4,62",D
+-,1-BOVESPA,C,FRACIONARIO,-,ITAUSAPN EJ N1,#,1,"9,50","9,50",D
+-,1-BOVESPA,C,FRACIONARIO,-,MAGAZ LUIZAON NM,-,1,"4,62","4,62",D
