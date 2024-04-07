@@ -1,0 +1,6 @@
+Q,Negociação,C/V,Tipo mercado,Prazo,Especificação do título,Obs. (*),Quantidade,Preço / Ajuste,Valor Operação / Ajuste,D/C
+-,1-BOVESPA,C,VISTA,-,FII XP CREDXPCI11CI ER,-,7,"78,14","546,98",D
+-,1-BOVESPA,C,VISTA,-,FII XP MALLSXPML11CI,#,4,"96,44","385,76",D
+-,1-BOVESPA,C,FRACIONARIO,-,ITAUSAPN N1,-,40,"8,24","329,60",D
+-,1-BOVESPA,C,FRACIONARIO,-,JHSF PARTON NM,-,30,"4,87","146,10",D
+-,1-BOVESPA,C,FRACIONARIO,-,NEOENERGIAON NM,-,20,"14,90","298,00",D

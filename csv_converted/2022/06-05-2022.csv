@@ -1,0 +1,6 @@
+Q,Negociação,C/V,Tipo mercado,Prazo,Especificação do título,Obs. (*),Quantidade,Preço / Ajuste,Valor Operação / Ajuste,D/C
+-,1-BOVESPA,C,VISTA,-,MAGAZ LUIZAON NM,-,100,"4,37","437,00",D
+-,1-BOVESPA,C,FRACIONARIO,-,OION N1,-,14,"0,78","10,92",D
+-,1-BOVESPA,C,FRACIONARIO,-,OION N1,-,56,"0,78","43,68",D
+-,1-BOVESPA,C,FRACIONARIO,-,TRAN PAULISTPN N1,-,10,"24,53","245,30",D
+-,1-BOVESPA,C,FRACIONARIO,-,WEGON NM,-,10,"27,31","273,10",D
